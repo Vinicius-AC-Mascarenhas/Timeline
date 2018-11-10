@@ -3,6 +3,18 @@ TITLE = "11/11 – EKKOS"
 entries = [
 	[False, "Shikisai", "Arranjo para fue + katsugi"],
 	[False, "Discurso da Tikae"],
+	[True,  "O Último Suspiro"]
+	[False, "Águia", "Intro no fue"],
+	[True,  "Emboscada"],
+	[False, "Sapateado", "+ okedō"],
+	[True,  "Liberdade"],
+	[False, "Asuka ou Umi", "Arranjo para fue + katsugi"],
+	[True,  "Rio no Kawa"],
+	]
+
+original_entries = [
+	[False, "Shikisai", "Arranjo para fue + katsugi"],
+	[False, "Discurso da Tikae"],
 	[True,  "Rio no Kawa"],
 	[False, "Águia", "Intro no fue"],
 	[True,  "Emboscada"],
